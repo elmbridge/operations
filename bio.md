@@ -2,6 +2,8 @@
 
 ## Short bio
 
+We offer free Elm workshops with a focus on increasing diversity, so that people of all backgrounds can feel welcome and comfortable in our community.
+
 ### Other examples
 
  - RailsBridge twitter: Creating an inclusive and friendly Ruby on Rails community, and spreading open source far and wide
