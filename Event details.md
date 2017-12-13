@@ -1,7 +1,7 @@
 This file contains a draft for the event details necessary to create an event on bridgetroll.org
 
 
-## Additiona Event Info
+## Additional Event Info
 
 ```html
 <h2>Workshop Description</h2>
