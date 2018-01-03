@@ -12,18 +12,18 @@ In this workshop, we'll take you through the process of building interactive web
 We'll start the morning with installing all of the software needed, and then spend the rest of the day learning and writing code. To attend this event, you should have at least some familiarity with another programming language (like Ruby, Python, or Javascript).  Students will be separated into different classes based on the experience level they choose when signing up.  If you are completely new to programming, you should look at attending a RailsBridge event instead, or wait for a future ElmBridge event when we hope to offer more-introductory workshops.
  
 <h2>Workshop Schedule </h2>
-8:30-9:30am: Check-in, breakfast, and software installation (please arrive by 9am at the latest)
-9:30am: Opening talk, student sorting 
-10am: Code
+9-10am: Check-in, breakfast, and software installation (please arrive by 9:30am at the latest)
+10am: Opening talk, student sorting 
+10:30am: Code
 12:30pm: Lunch 
 1:30pm: Code 
 4:30pm: Closing talk, announcements & retrospectives
 5-7pm: Afterparty (optional)
 
 <h2>Transportation and Parking</h2>
-NoRedInk is by the 10, 30, and 45 Muni lines; a short walk from the N/T, 8, 30, and 47 Muni lines; and a fifteen minute walk from the Montgomery BART/Muni station and the Transbay Terminal. 
+NoRedInk is a five minute walk from the Montgomery BART/Muni station and a fifteen minute walk from the Transbay Terminal. NoRedInk can also be accessed via the F, 6, 7, 9, 10, 12, and 14 bus lines.
 
-Street parking is available on Brannan, around South Park, and on adjacent streets.
+Street parking is limited but may be available on 2nd, Mission, and other adjacent streets.
 
 Bicycles can be brought into the building and up the elevator.
 
@@ -46,11 +46,11 @@ Everyone's invited to have a drink together after the workshop.  Location will b
 ```html
 All students need to bring their own laptop and powercord.
 
-Since bandwidth is usually at a premium at the Installfest, please download the Elm installer from https://guide.elm-lang.org/get_started.html
+Since bandwidth is usually at a premium, please download the Elm installer from https://guide.elm-lang.org/get_started.html
 ```
 
 ## RSVP confirmation details sent to Volunteers after sign up
 
 ```html
-Thanks for signing up to be a volunteer.  If you haven't already spoken to Aaron or Tessa, please contact us at elmlangbridge@gmail.com to get important event information for volunteers.
+Thanks for signing up to be a volunteer. If you haven't already spoken to one of the ElmBridge organizers, please contact us at elmlangbridge@gmail.com to get important event information for volunteers.
 ```
