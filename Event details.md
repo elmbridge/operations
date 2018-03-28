@@ -5,7 +5,7 @@ This file contains a draft for the event details necessary to create an event on
 
 ```html
 <h2>Workshop Description</h2>
-This workshop is intended to reach out to women, non-binary people, and people of color who are interested in learning frontend web development with Elm! If you are a white man, you're welcome to attend as the +1 of a woman, non-binary person, or person of color attending. We are emphatically queer & trans inclusive!
+This workshop is intended to reach out to women, non-binary people, and people of color who are interested in learning frontend web development with Elm! If this doesn't describe you, you are welcome to help with outreach by inviting someone you know who is a woman, non-binary person, or person of color and attending as their plus one. We are emphatically queer & trans inclusive!
 
 In this workshop, we'll take you through the process of building interactive web applications using <a href="http://elm-lang.org">Elm</a>, a delightful frontend language for reliable webapps. By the end of the day, you'll have built an interactive webapp and have a basic understanding of functional programming.
 
